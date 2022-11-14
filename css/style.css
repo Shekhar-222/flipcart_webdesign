@@ -1,0 +1,25 @@
+.s_tbdr {
+  border: 1px dashed red;
+}
+header {
+  /* height: 168px; */
+}
+.s_footer_top {
+  height: 2640px;
+}
+.s_footer_bottom {
+  height: 345px;
+  background-color: #172337;
+}
+main{
+    height:7450px;
+    background-color: #F1F3F6;
+}
+.s_header_top{
+    height: 70px;
+    background-color:#2874F0;
+}
+.s_header_bottom{
+    height: 98px;
+
+}
